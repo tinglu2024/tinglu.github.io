@@ -1,26 +1,10 @@
-title: "Dr. Lu's homepage"
+title: "Dr. Ting Lu"
 author: "Ting Lu"
 email: "tinglu2024@gmail.com"
-description: "Lecturer in Faculty of Maritime and Transportation, Ningbo University."
+description: "Lecturer in Faculty of Maritime and Transportation, Ningbo University. Research interests: Traffic Flow Theory, Traffic management."
 baseurl: ""
 url: "https://tinglu2024.github.io"
 github_username: "tinglu2024"
-
-# 你的姓名（显示在头像下方）
-name: "Ting Lu"
-
-# 你的职位头衔
-pronouns: "Dr." 
-
-# 你的机构/大学
-location: "Ningbo, China"
-
-# 你的具体职位
-bio: "Lecturer at Ningbo University"
-
-# 社交媒体链接（如果有，填入你的 ID）
-googlescholar_url: "https://scholar.x"
-orcid_id: "0000-0001-7002-5359"
 
 markdown: kramdown
 theme: minima
