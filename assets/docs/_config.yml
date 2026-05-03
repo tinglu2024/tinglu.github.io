@@ -1,10 +1,10 @@
-title: Dr. Lu's homepage
-author: Ting Lu
-email: tinglu2024@gmail.com
-description: Lecturer in Faculty of Maritime and Transportation, Ningbo University.
+title: "Dr. Lu's homepage"
+author: "Ting Lu"
+email: "tinglu2024@gmail.com"
+description: "Lecturer in Faculty of Maritime and Transportation, Ningbo University."
 baseurl: ""
 url: "https://tinglu2024.github.io"
-github_username: tinglu2024
+github_username: "tinglu2024"
 
 # 你的姓名（显示在头像下方）
 name: "Ting Lu"
